@@ -9,11 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project provides a simple digital abstraction of a photomultiplier tube (PMT)
+implemented in Verilog. A real PMT is an analog device that detects photons and
+amplifies the resulting electron signal through multiple dynode stages. 
+
+This Verilog implementation models the behavior digitally for simulation
+and FPGA-based systems.
 
 ## How to test
 
-Explain how to use your project
+To test your Photomultiplier Verilog project, you’ll need a testbench and a simulator.
 
 ## External hardware
 
