@@ -20,7 +20,7 @@ project:
     - "hvsync_generator.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
-pinout:ftt_um_photomultiplier_accum
+pinout: ftt_um_photomultiplier_accum
   # Inputs
   ui[0]: ""
   ui[1]: ""
