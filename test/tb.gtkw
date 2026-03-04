@@ -15,12 +15,10 @@
 [signals_width] 230
 [sst_expanded] 1
 [sst_vpaned_height] 158
-@28
-tb.user_project.ena
 @29
 tb.user_project.clk
 @28
-tb.user_project.rst_n
+tb.user_project.rst
 @200
 -Inputs
 @22
