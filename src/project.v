@@ -1,6 +1,6 @@
 module tt_um_photomultiplier_accum #(
     parameter GAIN = 1000,
-    parameter WIDTH = 32
+    parameter WIDTH = 8
 )(
     input wire clk,
     input wire rst,
